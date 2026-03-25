@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "sqpt_demo_000XXXXX"
+name = "sqpt_demo_00016612"
 version = "0.1.0"
 description = "Demo seminar Python package for CI pipeline"
 readme = "README.md"
